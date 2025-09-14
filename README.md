@@ -1,4 +1,4 @@
-Integrations Technical Assessment
+hubspot_integration
 
 This project demonstrates a simple integration layer with third-party SaaS platforms (HubSpot, Airtable, Notion) using FastAPI (backend) and React + Material-UI (frontend).
 The focus is on implementing and testing the HubSpot OAuth 2.0 flow end-to-end.
